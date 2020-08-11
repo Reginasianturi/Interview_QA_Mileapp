@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites name="Login" time="0" tests="0" failures="0" errors="0">
+    <testsuite name="Login" tests="0" failures="0" errors="0" time="0" timestamp="2019-08-14 17:47:44" hostname="membe - LAPTOP-OAHOA37H" id="Test Suites/Smoke test/Login">
+        <properties>
+            <property name="deviceName" value=""/>
+            <property name="devicePlatform" value=""/>
+            <property name="logFolder" value="C:\\Users\\membe\\Katalon Studio\\ProjectTesting1\\Reports\\20190814_174739\\Smoke test\\Login\\20190814_174739"/>
+            <property name="logFiles" value="C:\\Users\\membe\\Katalon Studio\\ProjectTesting1\\Reports\\20190814_174739\\Smoke test\\Login\\20190814_174739\\execution0.log"/>
+            <property name="attachments" value=""/>
+            <property name="hostName" value="membe - LAPTOP-OAHOA37H"/>
+            <property name="hostAddress" value="172.16.24.235"/>
+            <property name="os" value="Windows 10 64bit"/>
+            <property name="katalonVersion" value="6.3.1.2"/>
+        </properties>
+        <system-out>2019-08-14 17:47:44 - [TEST_SUITE][INCOMPLETE] - Login: null</system-out>
+        <system-err>2019-08-14 17:47:44 - [TEST_SUITE][INCOMPLETE] - Login: null</system-err>
+    </testsuite>
+</testsuites>
